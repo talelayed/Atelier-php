@@ -1,0 +1,11 @@
+form{
+    width: 50%;
+    margin: auto;
+    border-radius: 12px;
+    padding: 0px 10px 10px 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+}
+
+body{background-color: rgba(189, 191, 192, 0.573);}
